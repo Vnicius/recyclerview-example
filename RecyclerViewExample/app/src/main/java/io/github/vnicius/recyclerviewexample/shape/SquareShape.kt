@@ -6,5 +6,4 @@ package io.github.vnicius.recyclerviewexample.shape
  * github: @vnicius
  * vinicius.matheus252@gmail.com
  */
-class SquareShape: Shape(ShapeType.Square) {
-}
+class SquareShape: Shape(ShapeType.Square) {}
